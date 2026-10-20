@@ -1,0 +1,14 @@
+# Arquivos gerados pelo sistema e pelo navegador
+*.log
+.DS_Store
+Thumbs.db
+
+# Não versionar credenciais, configurações ou caches locais
+.env
+config.toml
+__pycache__/
+
+# Artefatos temporários de empacotamento
+build*/
+dist/
+*.spec
