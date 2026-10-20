@@ -10,8 +10,11 @@ Evoluir o HUD minimalista com animações discretas, escolha de cores, indicador
 
 ## 3. agenda mais funcional
 
+fazer com que o A.T.L.A.S entenda como funciona a agenda e a nomeação dos afazeres, possibilidade de marcar como conluído e etc
+
 ## 4. possibilidade de integrar com outras IA's (preferencialmente o Gemini)
 
+fazer o A.T.L.A.S usar uma IA pra responder, também funcionaria para enviar arquivos e pra que ele consiga mexer no pc
 ## Como abrir
 
 Dê duplo clique em `Abrir Jarvis HUD.cmd`. O painel inicia o servidor local do OpenJarvis e abre no navegador.
